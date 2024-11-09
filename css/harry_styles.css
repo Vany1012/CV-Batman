@@ -1,0 +1,36 @@
+#encabezado{
+    background-color: #505C7C;
+    text-align: center;
+}
+.box{
+    height: 110px;
+    text-align: center;
+    padding: 10px;
+}
+h1{
+    background-color: #282E3C;
+    text-align: center;
+    height: 30px;
+    padding: 20px;
+    color: white;
+}
+h2{
+    background-color: #282E3C;
+    color: white;
+    justify-content: center;
+}
+
+.lista-personalizada li{
+    list-style-type: none;
+    background-image: url(../assets/batman_cara.png);
+    background-size: 15px 15px;
+    background-repeat: no-repeat;
+    background-position: 5px;
+    padding-left: 30px;
+}
+footer{
+    background-color: #242424;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
